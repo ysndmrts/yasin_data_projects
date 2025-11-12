@@ -1,0 +1,1001 @@
+product_id,order_date,quantity,country,supplier
+LDPE Granule,12/12/2024,44,Bulgaria,Langworth LLC
+LDPE Granule,9/28/2024,2,China,"White, Bechtelar and Kuphal"
+HDPE Granule,2/11/2025,11,Brazil,Walsh-Hintz
+LDPE Granule,4/4/2025,25,Russia,Bernier-McKenzie
+PET Flake,9/13/2025,76,Mexico,Marks Group
+PET Flake,6/25/2025,65,Finland,Wintheiser-Beahan
+HDPE Granule,2/25/2025,89,Indonesia,Berge and Sons
+PET Flake,1/17/2024,74,Philippines,Monahan-Christiansen
+HDPE Granule,1/27/2024,45,Philippines,Treutel LLC
+PET Flake,11/3/2025,75,Russia,Stroman Inc
+LDPE Granule,10/11/2025,82,Ukraine,Corkery-Doyle
+PET Flake,12/19/2024,26,Honduras,Green-Paucek
+HDPE Granule,3/2/2024,15,France,"Williamson, VonRueden and Bosco"
+PET Flake,9/23/2024,74,Zambia,King-Kessler
+PET Flake,10/14/2025,55,Sweden,Huels-Deckow
+LDPE Granule,7/18/2024,80,Philippines,"Huels, Pouros and Durgan"
+HDPE Granule,3/11/2025,14,China,"Boehm, Marks and Zboncak"
+PET Flake,12/18/2024,57,Kosovo,Stamm-Upton
+LDPE Granule,7/20/2025,26,Russia,Rolfson Inc
+HDPE Granule,11/10/2025,77,Uzbekistan,"Cruickshank, Stracke and Shields"
+LDPE Granule,3/30/2024,52,China,Smith-Walker
+HDPE Granule,5/9/2024,64,Mexico,Treutel LLC
+HDPE Granule,6/15/2025,76,France,Huel Group
+LDPE Granule,10/8/2024,27,South Africa,"Lynch, Veum and Balistreri"
+LDPE Granule,11/11/2025,10,Sweden,"Legros, Watsica and Kertzmann"
+LDPE Granule,9/19/2025,80,China,"Prohaska, Sawayn and Funk"
+PET Flake,9/16/2025,41,Finland,"Huels, Flatley and Mosciski"
+LDPE Granule,4/3/2024,50,China,"Bergnaum, White and Oberbrunner"
+HDPE Granule,6/1/2025,56,Indonesia,"Cruickshank, Mann and Gleichner"
+HDPE Granule,10/4/2025,21,Greece,"Blick, Conn and Rippin"
+LDPE Granule,12/9/2024,36,Philippines,Powlowski LLC
+HDPE Granule,8/30/2024,40,South Africa,"Rolfson, Runte and Fritsch"
+HDPE Granule,8/10/2025,72,Portugal,Fadel-Rice
+PET Flake,8/6/2024,8,Russia,Gulgowski-Parisian
+PET Flake,4/15/2024,31,China,Smitham-Hirthe
+PET Flake,3/13/2025,26,Belgium,Wehner Group
+LDPE Granule,4/7/2025,5,Indonesia,"Farrell, Feil and Satterfield"
+LDPE Granule,12/10/2024,68,Russia,Medhurst LLC
+PET Flake,6/12/2024,56,China,Ruecker Group
+PET Flake,11/24/2024,42,Haiti,Hilll Group
+LDPE Granule,1/19/2024,73,Philippines,Prohaska Group
+PET Flake,7/19/2024,43,Honduras,"Hermann, Kling and Kohler"
+HDPE Granule,2/8/2024,12,China,"Predovic, Moen and Stark"
+LDPE Granule,10/12/2025,6,Japan,Koelpin-Hagenes
+PET Flake,7/25/2024,53,Pakistan,"Mills, Bechtelar and Renner"
+HDPE Granule,9/19/2025,69,Myanmar,Armstrong-Larson
+PET Flake,6/30/2024,97,China,Koepp-Miller
+PET Flake,1/17/2025,9,Poland,Mohr Inc
+HDPE Granule,9/20/2024,14,Sweden,"Kertzmann, Schmidt and Wyman"
+PET Flake,7/19/2025,53,Macedonia,"Hilll, Renner and Jacobi"
+LDPE Granule,3/12/2024,71,Indonesia,Harber-Sawayn
+HDPE Granule,7/8/2025,55,Albania,"Pfannerstill, Lind and Hoppe"
+LDPE Granule,5/13/2025,92,Thailand,Anderson Group
+PET Flake,8/4/2025,24,Indonesia,"Kuvalis, Waelchi and Lebsack"
+PET Flake,8/7/2025,39,China,Raynor and Sons
+PET Flake,8/5/2024,22,Russia,"Bechtelar, Bartell and Windler"
+PET Flake,3/12/2025,5,China,Lemke and Sons
+HDPE Granule,5/4/2025,58,Poland,Watsica-Rau
+LDPE Granule,1/17/2025,15,Panama,Morar Group
+LDPE Granule,3/28/2025,48,China,"Hamill, Lynch and Renner"
+HDPE Granule,7/13/2025,32,Indonesia,Schuster-Metz
+HDPE Granule,11/17/2024,16,Syria,Wyman-Bernier
+LDPE Granule,8/13/2024,62,Brazil,Bechtelar-Boyle
+LDPE Granule,8/31/2025,80,Brazil,"Borer, Little and Roob"
+LDPE Granule,8/21/2024,81,Peru,Dooley-Osinski
+HDPE Granule,1/17/2025,74,South Africa,Zemlak Group
+HDPE Granule,3/21/2024,28,Portugal,Volkman Group
+HDPE Granule,4/26/2024,85,Mexico,Ondricka-Bechtelar
+HDPE Granule,3/11/2025,72,Thailand,Bogan LLC
+HDPE Granule,8/30/2025,57,France,"Hauck, Carter and Dare"
+HDPE Granule,6/28/2024,61,Spain,Veum-Kiehn
+HDPE Granule,8/21/2024,38,Peru,"Mills, Green and Cummerata"
+HDPE Granule,2/28/2024,62,Thailand,Waters-Cruickshank
+HDPE Granule,7/2/2025,81,Ethiopia,Klein Inc
+HDPE Granule,10/3/2025,63,Costa Rica,Bayer-Hessel
+PET Flake,7/23/2025,50,Azerbaijan,"Christiansen, Barrows and Lueilwitz"
+LDPE Granule,1/11/2025,72,China,Greenholt Group
+LDPE Granule,9/16/2024,85,Czech Republic,Pacocha-Kulas
+PET Flake,11/3/2024,71,China,Berge-Schulist
+LDPE Granule,7/28/2025,14,Uruguay,Pagac-Greenholt
+HDPE Granule,9/12/2025,69,Canada,Welch-Schaefer
+PET Flake,8/8/2025,63,Philippines,Emard-Donnelly
+HDPE Granule,1/11/2025,42,Indonesia,Abbott-Miller
+HDPE Granule,1/15/2024,96,Russia,"Welch, Haag and Stiedemann"
+LDPE Granule,10/2/2024,95,Philippines,O'Conner Inc
+HDPE Granule,3/12/2024,47,China,Bednar-Torphy
+PET Flake,8/17/2025,30,Estonia,Goodwin-Becker
+LDPE Granule,6/5/2025,74,Portugal,Carroll Group
+PET Flake,10/22/2024,90,Tunisia,"Fadel, Grady and Bernier"
+PET Flake,1/2/2024,47,Russia,McCullough-Brown
+LDPE Granule,11/20/2024,51,Indonesia,Bartoletti-Aufderhar
+PET Flake,3/19/2024,13,Russia,Tromp-Oberbrunner
+PET Flake,10/30/2024,71,China,Braun-Hayes
+PET Flake,10/18/2024,96,Philippines,Feil Inc
+HDPE Granule,2/5/2025,15,Denmark,Frami and Sons
+HDPE Granule,4/17/2024,8,China,Abshire-Lubowitz
+HDPE Granule,7/8/2024,6,China,Connelly-Koss
+PET Flake,3/17/2024,83,Malaysia,Ledner LLC
+HDPE Granule,12/15/2024,80,Philippines,Prohaska Group
+PET Flake,8/20/2025,70,Brazil,Larson-Metz
+HDPE Granule,12/29/2024,41,France,Yundt-Jenkins
+PET Flake,10/24/2025,39,Indonesia,Considine Inc
+HDPE Granule,6/7/2024,73,Czech Republic,Gusikowski-Weimann
+HDPE Granule,3/22/2025,15,Greece,Bins LLC
+LDPE Granule,11/10/2025,38,Mauritius,"Berge, Hahn and Reichert"
+LDPE Granule,10/9/2025,29,Portugal,Conn Inc
+HDPE Granule,10/28/2025,62,China,Collier-Fadel
+PET Flake,2/7/2025,98,China,Swift-Wilderman
+LDPE Granule,1/10/2024,52,Pakistan,"Pagac, Mohr and O'Kon"
+LDPE Granule,6/15/2025,86,Panama,"Crist, Fisher and McLaughlin"
+HDPE Granule,6/22/2024,65,China,Sipes and Sons
+PET Flake,6/28/2025,70,China,Cremin-Harber
+HDPE Granule,4/3/2025,3,Indonesia,Herman-Krajcik
+HDPE Granule,11/18/2025,89,Ukraine,Rolfson-Runolfsdottir
+PET Flake,2/26/2024,52,Indonesia,Senger-Bechtelar
+LDPE Granule,5/9/2025,93,Canada,"Stoltenberg, Kiehn and Pouros"
+PET Flake,4/19/2024,84,Brazil,Hane Inc
+LDPE Granule,1/10/2024,43,China,"Anderson, Mueller and Fay"
+LDPE Granule,12/15/2024,34,China,"Carter, Bednar and Sanford"
+LDPE Granule,2/9/2025,5,Philippines,"Huel, Collins and Stokes"
+LDPE Granule,1/13/2025,59,Portugal,"Morar, Tromp and Skiles"
+LDPE Granule,10/12/2024,8,China,"Ritchie, Leffler and Jerde"
+LDPE Granule,12/3/2025,33,China,"Bogisich, Hermiston and Lueilwitz"
+PET Flake,10/31/2024,43,Sweden,"Lynch, Rau and Crona"
+LDPE Granule,3/30/2024,98,Indonesia,Champlin LLC
+LDPE Granule,3/1/2024,87,Latvia,"Fadel, McDermott and Gibson"
+LDPE Granule,5/14/2025,82,China,Rowe Group
+PET Flake,10/21/2025,62,Russia,"Reilly, Hartmann and Schneider"
+LDPE Granule,2/8/2024,60,France,Abernathy-MacGyver
+LDPE Granule,1/30/2025,36,Russia,Wolf-Waelchi
+HDPE Granule,6/29/2025,36,Poland,"Crist, Johnson and Mohr"
+PET Flake,5/15/2025,6,Indonesia,Schuster-Kuhlman
+PET Flake,11/11/2025,25,Equatorial Guinea,"Okuneva, Graham and Vandervort"
+LDPE Granule,3/20/2024,83,Zambia,"Hauck, Pollich and Dibbert"
+LDPE Granule,5/6/2024,53,France,O'Connell-Jacobi
+PET Flake,9/6/2024,61,Portugal,"Haag, Cremin and Runte"
+PET Flake,7/6/2025,36,Brazil,Stanton Inc
+PET Flake,6/23/2025,87,China,Stroman Group
+HDPE Granule,1/26/2025,48,Thailand,"Boyle, Wintheiser and Hickle"
+PET Flake,9/9/2024,82,China,Lesch-Kuhn
+PET Flake,1/14/2024,37,Kazakhstan,Kautzer-Gleichner
+HDPE Granule,8/9/2024,3,Czech Republic,Halvorson and Sons
+PET Flake,10/7/2024,69,Portugal,"Cronin, Lehner and Jones"
+PET Flake,6/14/2025,6,Portugal,Mertz-Lowe
+HDPE Granule,11/17/2024,51,Philippines,Bradtke-Paucek
+HDPE Granule,2/23/2025,26,China,Berge Inc
+PET Flake,12/17/2025,60,Morocco,Kiehn and Sons
+HDPE Granule,4/22/2024,73,China,"Hermann, Boehm and Brekke"
+LDPE Granule,6/27/2024,33,China,Prohaska Inc
+LDPE Granule,5/20/2025,4,Uzbekistan,Ward LLC
+PET Flake,3/12/2025,49,China,"Becker, Hodkiewicz and Block"
+LDPE Granule,3/27/2024,93,United States,"Will, Miller and Kreiger"
+PET Flake,2/21/2024,14,China,"Schmidt, Brakus and Greenfelder"
+HDPE Granule,12/11/2024,9,Brazil,"Buckridge, Russel and Kuphal"
+PET Flake,2/14/2025,40,Peru,"Dach, Ferry and Erdman"
+LDPE Granule,3/8/2024,29,China,Hayes-Rowe
+LDPE Granule,6/11/2024,87,Indonesia,Gutkowski Group
+HDPE Granule,5/26/2024,37,Malaysia,Turner and Sons
+LDPE Granule,12/30/2024,46,Japan,Stark and Sons
+PET Flake,3/7/2025,1,China,Schneider-Berge
+PET Flake,7/2/2024,75,Malaysia,"Kris, D'Amore and Gleason"
+PET Flake,2/13/2024,86,Indonesia,Trantow Group
+PET Flake,1/10/2025,67,Ireland,"Kub, Cronin and Kutch"
+PET Flake,12/18/2025,19,Indonesia,"Schneider, Marks and Hayes"
+HDPE Granule,2/8/2024,5,Bulgaria,"Roob, Wilderman and Cummings"
+PET Flake,4/15/2025,1,Indonesia,"Cole, Rolfson and Lockman"
+PET Flake,11/3/2025,78,China,Veum-Labadie
+LDPE Granule,8/31/2024,15,Indonesia,"Green, Frami and Runolfsdottir"
+LDPE Granule,4/6/2025,5,Honduras,Abernathy-Gutkowski
+HDPE Granule,3/12/2024,48,Poland,"Ankunding, Rice and Koepp"
+HDPE Granule,7/30/2025,48,China,"Bartoletti, Walter and Rolfson"
+HDPE Granule,7/11/2024,32,China,McKenzie Inc
+PET Flake,9/7/2025,15,China,"Kub, Jenkins and Volkman"
+HDPE Granule,5/4/2024,32,Philippines,Goyette-Morar
+HDPE Granule,2/17/2024,13,France,"Frami, Kiehn and Borer"
+LDPE Granule,1/5/2025,70,Portugal,Zboncak-Walsh
+PET Flake,3/29/2025,38,Greece,Nicolas-Emard
+LDPE Granule,5/2/2024,48,Tunisia,Bode-Walter
+HDPE Granule,11/6/2024,30,Malaysia,"Hermiston, Walsh and Ryan"
+HDPE Granule,6/16/2024,9,China,"McCullough, Conn and Nikolaus"
+LDPE Granule,2/3/2025,47,Portugal,"O'Kon, Paucek and Langosh"
+PET Flake,7/16/2025,61,Indonesia,Gerhold-Kiehn
+LDPE Granule,1/10/2024,69,Poland,"Rath, O'Connell and Rippin"
+LDPE Granule,4/5/2024,73,Indonesia,Cummerata-Kulas
+LDPE Granule,2/14/2024,60,Brazil,"Quigley, Homenick and Medhurst"
+PET Flake,4/6/2025,88,France,Balistreri LLC
+PET Flake,4/9/2024,77,Indonesia,Koch-Bashirian
+LDPE Granule,6/30/2025,7,Hungary,"Buckridge, Rempel and Jakubowski"
+LDPE Granule,4/22/2025,5,Nigeria,Friesen Group
+HDPE Granule,2/27/2024,33,Philippines,Oberbrunner-Stoltenberg
+HDPE Granule,4/2/2025,87,Philippines,Lynch-Mitchell
+LDPE Granule,5/1/2024,81,China,Schiller-Tremblay
+LDPE Granule,9/27/2024,71,China,Schroeder-Mohr
+HDPE Granule,1/8/2024,90,Brazil,Bauch-Osinski
+HDPE Granule,8/9/2024,37,Lithuania,Volkman Group
+LDPE Granule,5/1/2024,77,Ukraine,"Hoeger, Fahey and Smith"
+HDPE Granule,1/10/2024,68,Russia,"Stiedemann, Aufderhar and Haley"
+LDPE Granule,5/9/2024,93,China,"Davis, Mitchell and Terry"
+PET Flake,5/30/2025,84,China,Yundt-Bogan
+LDPE Granule,3/10/2025,82,Japan,Stamm and Sons
+HDPE Granule,2/4/2024,37,Sri Lanka,"Schiller, Hintz and Schmeler"
+LDPE Granule,9/16/2024,97,Thailand,Daniel-Bayer
+PET Flake,7/1/2025,78,China,Beatty-Frami
+PET Flake,8/16/2024,5,Sweden,Gutmann Group
+LDPE Granule,1/9/2025,76,Tunisia,"Marvin, Reichert and Grimes"
+HDPE Granule,5/19/2024,75,Ukraine,"Durgan, Little and Emard"
+HDPE Granule,12/14/2025,9,Ethiopia,Hahn Inc
+PET Flake,4/23/2025,82,Brazil,Will-Beier
+HDPE Granule,11/14/2025,49,France,"Jacobs, Auer and Kessler"
+LDPE Granule,9/22/2024,64,Philippines,Ward and Sons
+HDPE Granule,10/11/2024,57,Peru,"Lang, Ward and Fritsch"
+PET Flake,5/30/2024,53,China,Ratke and Sons
+LDPE Granule,10/6/2025,7,Azerbaijan,Johns LLC
+HDPE Granule,7/28/2024,18,China,Gottlieb Group
+PET Flake,7/29/2025,28,Brazil,Nicolas-Price
+LDPE Granule,2/24/2024,55,Poland,MacGyver LLC
+PET Flake,7/2/2025,96,Thailand,Brekke Inc
+PET Flake,3/10/2024,10,China,Roob-Rolfson
+PET Flake,1/3/2025,4,France,Weimann Group
+LDPE Granule,2/24/2025,63,Sweden,Schaden and Sons
+HDPE Granule,9/3/2024,13,France,Cremin Group
+PET Flake,3/24/2024,13,Bulgaria,Parker and Sons
+HDPE Granule,4/19/2025,31,Jamaica,Stamm-Rempel
+HDPE Granule,9/15/2024,84,Indonesia,Dicki and Sons
+PET Flake,7/31/2025,73,Ecuador,Berge-Cormier
+HDPE Granule,2/16/2025,96,Indonesia,Hoeger LLC
+HDPE Granule,7/13/2025,100,Saint Kitts and Nevis,McDermott-Maggio
+LDPE Granule,3/10/2025,96,Panama,Schaefer Group
+HDPE Granule,5/20/2024,82,France,Kovacek-Willms
+LDPE Granule,6/2/2024,26,Kazakhstan,Rau Inc
+HDPE Granule,6/1/2025,40,Brazil,Stanton and Sons
+PET Flake,7/26/2024,70,Poland,Durgan-Abbott
+LDPE Granule,12/29/2024,18,China,Bartell-Lehner
+LDPE Granule,7/6/2024,42,Croatia,Buckridge LLC
+PET Flake,4/2/2024,25,China,Reilly Group
+HDPE Granule,4/5/2024,10,Sweden,"Crona, Emard and Rosenbaum"
+HDPE Granule,9/18/2025,81,Sweden,Quigley and Sons
+LDPE Granule,8/2/2024,65,Poland,Howell-Will
+HDPE Granule,7/26/2024,10,Macedonia,Carter Inc
+HDPE Granule,4/28/2024,64,Indonesia,"Bergstrom, Schimmel and Cormier"
+HDPE Granule,12/6/2025,15,Guam,Conn-Hirthe
+HDPE Granule,2/26/2024,29,Philippines,Hermiston LLC
+HDPE Granule,3/23/2024,23,Morocco,"Marvin, Thiel and Cole"
+PET Flake,10/5/2024,69,New Zealand,Huel-Davis
+HDPE Granule,7/1/2024,84,Indonesia,Fisher Group
+HDPE Granule,12/1/2024,85,Russia,Steuber-Heller
+HDPE Granule,1/13/2025,24,China,"Nikolaus, Goldner and Kassulke"
+LDPE Granule,11/3/2025,52,United States,Johns Inc
+HDPE Granule,2/15/2025,30,Portugal,Buckridge and Sons
+HDPE Granule,3/26/2024,13,Indonesia,Gutmann Group
+PET Flake,4/4/2024,39,Philippines,Bartoletti-Nader
+HDPE Granule,7/11/2025,40,Montenegro,Spencer Group
+PET Flake,7/3/2024,33,United States,Morissette-Sanford
+HDPE Granule,3/24/2024,34,Finland,Greenfelder LLC
+LDPE Granule,9/14/2024,42,Sweden,Schultz-O'Reilly
+LDPE Granule,2/18/2024,38,Cameroon,Kihn LLC
+HDPE Granule,4/10/2024,32,China,"Nitzsche, Steuber and Keebler"
+LDPE Granule,4/1/2025,21,Russia,"Price, Koelpin and Rempel"
+PET Flake,6/11/2025,95,Nicaragua,"Cormier, Schulist and Hoppe"
+LDPE Granule,3/21/2024,56,Russia,Mraz-Schmeler
+HDPE Granule,10/18/2024,22,China,"Frami, Hammes and Ziemann"
+HDPE Granule,3/9/2024,88,Portugal,Balistreri-Borer
+PET Flake,4/11/2024,29,Indonesia,Hand-Simonis
+LDPE Granule,11/10/2025,65,China,Swaniawski-Fay
+HDPE Granule,6/21/2025,96,Japan,Morissette-Armstrong
+LDPE Granule,6/14/2024,92,Brazil,McKenzie and Sons
+HDPE Granule,3/4/2025,41,Finland,Cartwright Group
+HDPE Granule,9/10/2025,87,China,"Lindgren, Ziemann and Yundt"
+LDPE Granule,11/3/2024,91,Brazil,Fisher and Sons
+LDPE Granule,1/20/2024,48,Iran,Carter LLC
+HDPE Granule,8/25/2025,21,China,"Gusikowski, Bode and Runolfsson"
+LDPE Granule,9/15/2024,87,Argentina,Daugherty-Kovacek
+HDPE Granule,8/1/2025,24,Brazil,"Berge, McClure and Towne"
+HDPE Granule,8/24/2024,3,Russia,"Smitham, McDermott and Trantow"
+LDPE Granule,5/3/2024,67,Guam,Konopelski and Sons
+HDPE Granule,7/14/2024,93,Japan,Kling-Schulist
+HDPE Granule,1/22/2025,92,China,Kertzmann Group
+HDPE Granule,3/10/2024,19,China,Flatley Group
+HDPE Granule,11/10/2025,65,Indonesia,Schaden-Crist
+LDPE Granule,10/12/2024,65,Mexico,Hermiston LLC
+LDPE Granule,6/2/2024,78,Greece,"Morar, Rath and Stiedemann"
+LDPE Granule,2/1/2025,52,Russia,Boehm-Jast
+PET Flake,3/20/2025,91,Venezuela,"DuBuque, Swift and Smitham"
+LDPE Granule,1/16/2024,97,Yemen,"Price, Cummerata and Gottlieb"
+LDPE Granule,1/30/2025,43,China,Grant-Jaskolski
+PET Flake,12/19/2024,66,Sweden,Reichert Inc
+HDPE Granule,1/14/2024,37,Indonesia,Schumm LLC
+LDPE Granule,6/18/2025,5,Poland,"Pfannerstill, Rodriguez and Thompson"
+LDPE Granule,3/31/2024,89,Latvia,"Bernhard, Langworth and Kohler"
+LDPE Granule,8/23/2024,51,China,Rolfson and Sons
+HDPE Granule,10/15/2024,57,China,Howell Inc
+PET Flake,2/24/2025,11,Ukraine,Larson-Thiel
+LDPE Granule,6/1/2025,83,Democratic Republic of the Congo,Williamson LLC
+LDPE Granule,11/21/2024,15,China,Lynch-Hyatt
+PET Flake,10/8/2025,24,China,"Hilpert, Borer and Kerluke"
+PET Flake,7/16/2025,73,China,Hansen and Sons
+HDPE Granule,4/29/2025,4,Peru,McLaughlin LLC
+HDPE Granule,6/9/2024,34,Indonesia,Hilll LLC
+LDPE Granule,6/27/2024,6,United States,Jakubowski-Okuneva
+PET Flake,3/12/2024,79,Portugal,"Swaniawski, Batz and Schneider"
+LDPE Granule,4/12/2024,91,Indonesia,"Feeney, Cole and Bauch"
+HDPE Granule,7/16/2024,22,Thailand,Hilpert Group
+HDPE Granule,5/1/2025,88,China,Johnston Group
+PET Flake,8/17/2024,38,Kuwait,Zulauf Inc
+HDPE Granule,7/31/2024,57,China,"Stehr, Turcotte and Mitchell"
+LDPE Granule,2/19/2024,18,Slovenia,"Swift, Dietrich and Russel"
+LDPE Granule,10/6/2024,31,Czech Republic,Stehr-McGlynn
+PET Flake,5/1/2025,8,Philippines,Simonis and Sons
+HDPE Granule,1/16/2025,39,Poland,"Koelpin, Davis and Bailey"
+HDPE Granule,8/8/2025,8,Panama,Smitham-Witting
+LDPE Granule,7/24/2024,60,Palestinian Territory,"Jakubowski, Kuhn and Watsica"
+HDPE Granule,10/7/2024,26,New Zealand,"Lesch, Daniel and Ledner"
+PET Flake,3/11/2025,94,Thailand,Herzog Inc
+LDPE Granule,11/21/2024,37,Czech Republic,"Hartmann, Daniel and Dach"
+LDPE Granule,1/2/2025,8,Indonesia,Wolf-Schiller
+PET Flake,5/30/2024,57,Philippines,"Schimmel, Jacobs and Crooks"
+LDPE Granule,10/14/2025,97,Poland,Kerluke-Runolfsdottir
+PET Flake,12/3/2025,25,Palestinian Territory,Sawayn-Lynch
+LDPE Granule,3/22/2024,73,France,"Powlowski, Carter and Wilkinson"
+HDPE Granule,2/25/2024,60,Indonesia,Turcotte-Kuphal
+PET Flake,1/5/2025,91,Indonesia,Kuvalis-Cronin
+PET Flake,9/28/2025,88,France,Rosenbaum-Koch
+PET Flake,11/20/2024,69,Japan,Prohaska Inc
+LDPE Granule,3/8/2025,16,Indonesia,"Graham, Hegmann and Schimmel"
+HDPE Granule,1/19/2024,24,Brazil,Muller Inc
+PET Flake,10/18/2025,63,China,White-Feeney
+HDPE Granule,9/21/2025,31,Nigeria,Bednar Group
+PET Flake,2/2/2025,54,Portugal,Nolan-Johnston
+PET Flake,7/14/2025,45,Croatia,Runolfsdottir-Bednar
+PET Flake,9/18/2024,47,China,"Harvey, Homenick and Pacocha"
+PET Flake,6/17/2024,62,Jordan,O'Connell-Lynch
+LDPE Granule,8/14/2024,98,Argentina,"Konopelski, Christiansen and McDermott"
+HDPE Granule,12/22/2024,54,Russia,"Halvorson, Ernser and Feest"
+LDPE Granule,12/20/2024,90,Malaysia,"Kris, Schinner and Zieme"
+HDPE Granule,4/14/2024,92,China,Rodriguez Group
+HDPE Granule,9/14/2025,63,Serbia,Spinka-Kemmer
+PET Flake,2/24/2025,98,Armenia,"Baumbach, Haley and Tillman"
+HDPE Granule,1/1/2025,86,Brazil,Lakin-Kemmer
+LDPE Granule,8/19/2025,44,China,"Prohaska, Dibbert and Runolfsson"
+PET Flake,12/13/2025,18,Luxembourg,Feeney LLC
+LDPE Granule,9/5/2025,80,Peru,Dach LLC
+PET Flake,10/14/2024,25,Indonesia,Kerluke LLC
+LDPE Granule,5/25/2024,84,Russia,Mayert-Leuschke
+LDPE Granule,9/5/2024,64,Brazil,Vandervort-Mann
+LDPE Granule,10/20/2025,69,Colombia,Hilll LLC
+HDPE Granule,1/28/2025,11,Argentina,"Lubowitz, Schmeler and Balistreri"
+PET Flake,7/15/2024,82,China,Kreiger-O'Kon
+LDPE Granule,12/13/2025,70,China,"Wehner, Schumm and Nader"
+LDPE Granule,2/23/2024,75,United States,"Rath, Bartoletti and Jaskolski"
+PET Flake,3/1/2025,70,Nicaragua,Nienow-Adams
+PET Flake,6/18/2024,47,China,Sanford-Schoen
+HDPE Granule,5/26/2025,4,Russia,Moore-Cummings
+PET Flake,8/16/2024,73,Guatemala,Ankunding-Abbott
+HDPE Granule,2/8/2025,61,Iran,"Quigley, Hayes and Sipes"
+HDPE Granule,3/11/2024,7,Angola,"Brakus, Dare and Streich"
+PET Flake,4/29/2025,68,Sweden,Beier and Sons
+PET Flake,10/15/2025,15,Albania,Schowalter Group
+PET Flake,11/10/2024,46,Greece,Larkin-Lindgren
+PET Flake,8/2/2024,16,Russia,"Steuber, Bahringer and Bednar"
+PET Flake,5/28/2025,44,Poland,Graham LLC
+HDPE Granule,1/23/2025,13,Jersey,Moore LLC
+HDPE Granule,4/8/2025,58,Sweden,Reynolds Inc
+PET Flake,12/7/2024,35,Mali,"Witting, Wuckert and Nolan"
+LDPE Granule,12/17/2024,73,China,Quitzon-Dibbert
+HDPE Granule,1/7/2025,36,Yemen,Ebert-Johns
+LDPE Granule,5/9/2024,99,Indonesia,"Welch, Kihn and Ankunding"
+LDPE Granule,2/15/2024,9,Philippines,"Brekke, Leannon and Herzog"
+HDPE Granule,12/5/2025,82,Uganda,Rowe LLC
+PET Flake,8/17/2024,58,China,Pollich Group
+LDPE Granule,8/12/2025,93,China,"Barton, Ward and McDermott"
+PET Flake,9/6/2025,19,Russia,Gerlach-Skiles
+LDPE Granule,6/6/2025,37,China,"Daugherty, McKenzie and Johnson"
+HDPE Granule,9/21/2025,21,South Africa,Bartell Inc
+PET Flake,11/17/2024,73,Macedonia,Roob Group
+PET Flake,3/17/2025,93,Poland,Wolff Inc
+LDPE Granule,6/27/2025,28,Indonesia,Strosin Group
+HDPE Granule,5/26/2024,34,China,"Runte, Krajcik and Monahan"
+PET Flake,2/22/2025,4,Indonesia,"Raynor, Wolf and McGlynn"
+PET Flake,4/14/2024,95,Philippines,Klocko-Mueller
+LDPE Granule,7/13/2025,62,France,Huels Group
+LDPE Granule,2/18/2024,72,China,Kozey-Brakus
+HDPE Granule,3/21/2024,24,Russia,Denesik and Sons
+PET Flake,8/28/2024,72,Indonesia,"Ryan, Flatley and Okuneva"
+LDPE Granule,2/10/2025,24,Philippines,"Jast, Aufderhar and Predovic"
+LDPE Granule,7/6/2025,32,China,"Rowe, Feil and Glover"
+PET Flake,3/14/2025,73,Japan,Langosh and Sons
+HDPE Granule,11/27/2025,29,Philippines,"Reilly, McLaughlin and Fisher"
+PET Flake,1/28/2025,94,Portugal,Reilly-Ullrich
+PET Flake,5/2/2025,31,Sweden,"Hilpert, Baumbach and Nicolas"
+HDPE Granule,9/28/2025,95,Portugal,"Larkin, Orn and Rippin"
+PET Flake,4/14/2025,98,Germany,Lindgren Inc
+PET Flake,11/24/2025,58,Indonesia,Fadel LLC
+HDPE Granule,11/2/2025,89,Russia,Murray-Bergnaum
+HDPE Granule,6/2/2024,71,Democratic Republic of the Congo,Davis-Howell
+HDPE Granule,10/6/2024,87,Brazil,Hyatt and Sons
+HDPE Granule,3/22/2025,25,Indonesia,O'Kon-Haley
+HDPE Granule,7/13/2024,68,Japan,Mann and Sons
+PET Flake,12/15/2024,97,China,Moen-Rath
+PET Flake,1/22/2025,76,Czech Republic,Anderson Inc
+HDPE Granule,6/28/2025,50,China,Batz-Nolan
+PET Flake,2/21/2024,70,Russia,Corwin-Larkin
+HDPE Granule,7/19/2025,99,Colombia,Bogisich and Sons
+HDPE Granule,3/9/2025,90,Mexico,Bartell Group
+LDPE Granule,9/26/2024,24,China,Prosacco and Sons
+PET Flake,5/2/2024,27,Venezuela,"Reinger, Beier and Cartwright"
+PET Flake,11/24/2024,79,Honduras,Ernser-Abbott
+PET Flake,7/5/2024,91,Swaziland,White and Sons
+LDPE Granule,9/21/2025,34,China,"Brown, Schinner and Mills"
+HDPE Granule,2/1/2025,47,China,"Lynch, Reinger and Schinner"
+PET Flake,12/10/2025,76,United States,O'Kon Inc
+HDPE Granule,9/22/2024,32,Russia,Kertzmann-Jenkins
+LDPE Granule,3/2/2025,64,Philippines,Stiedemann-Predovic
+HDPE Granule,1/7/2024,6,Poland,"Hudson, Rath and Kuphal"
+PET Flake,10/5/2025,50,China,Cole and Sons
+LDPE Granule,12/9/2025,95,Vietnam,"Bogan, Beier and Stanton"
+LDPE Granule,10/10/2024,60,Philippines,Bartell-O'Conner
+LDPE Granule,10/21/2024,48,Sierra Leone,Parisian Group
+LDPE Granule,6/2/2025,80,China,"Beatty, Brekke and Trantow"
+PET Flake,9/21/2025,71,France,Kemmer Group
+LDPE Granule,2/26/2024,15,Ireland,Davis Inc
+PET Flake,11/12/2025,40,Greece,Stoltenberg-Schamberger
+LDPE Granule,5/22/2025,5,Indonesia,Turcotte and Sons
+LDPE Granule,1/27/2025,78,Poland,"Fritsch, Jacobson and Sauer"
+LDPE Granule,12/11/2024,1,China,MacGyver-Streich
+LDPE Granule,12/21/2025,32,Ukraine,Rohan LLC
+HDPE Granule,4/28/2024,6,China,"Boyle, Gorczany and Zemlak"
+LDPE Granule,10/15/2025,89,China,Rempel-Wolf
+PET Flake,12/4/2025,64,United States,Mosciski-Bogan
+PET Flake,5/26/2025,60,Russia,Brown Group
+HDPE Granule,9/30/2025,98,China,Hessel Group
+LDPE Granule,5/23/2024,100,Portugal,Schmeler LLC
+LDPE Granule,7/29/2024,99,Brazil,Franecki Inc
+LDPE Granule,3/31/2025,80,China,"Ullrich, Lind and Rice"
+HDPE Granule,10/7/2024,34,Serbia,Dooley LLC
+PET Flake,3/25/2025,60,Ireland,Auer Inc
+HDPE Granule,11/4/2025,77,Indonesia,Nienow-Runolfsdottir
+PET Flake,1/9/2025,35,Finland,"Jerde, Walker and Berge"
+PET Flake,10/13/2024,35,China,Abernathy Group
+HDPE Granule,5/16/2025,87,China,Barton-Crooks
+HDPE Granule,1/24/2025,26,China,Miller-Kovacek
+HDPE Granule,12/26/2025,81,Russia,Hirthe-Emard
+LDPE Granule,1/3/2024,59,China,Baumbach-Carroll
+LDPE Granule,4/27/2025,64,Russia,Strosin and Sons
+PET Flake,7/13/2025,50,Syria,Blanda and Sons
+PET Flake,6/16/2024,53,China,Marks Inc
+PET Flake,1/22/2025,67,China,Price Group
+HDPE Granule,8/18/2025,36,Brazil,"Reilly, Muller and Stanton"
+HDPE Granule,5/28/2024,80,Switzerland,"Crona, Keebler and Champlin"
+PET Flake,4/8/2025,74,Thailand,Nader Inc
+PET Flake,7/8/2024,96,Greenland,Bauch-Douglas
+LDPE Granule,8/2/2024,92,Czech Republic,Tremblay-Wuckert
+LDPE Granule,10/25/2025,22,Russia,Zulauf and Sons
+LDPE Granule,9/19/2025,65,China,"Green, Nolan and Leannon"
+PET Flake,10/8/2025,64,France,"Little, Ruecker and Schmidt"
+LDPE Granule,10/23/2025,56,Italy,Wunsch-Willms
+LDPE Granule,10/22/2025,23,Portugal,Carter-Streich
+PET Flake,12/5/2024,74,Argentina,Ryan Group
+HDPE Granule,8/5/2025,4,Pakistan,Herman LLC
+LDPE Granule,6/15/2025,19,Nigeria,Skiles-Littel
+HDPE Granule,12/20/2024,25,China,"Spinka, Brekke and Swaniawski"
+LDPE Granule,9/10/2025,93,Afghanistan,Hamill Group
+PET Flake,12/13/2025,66,Indonesia,Bartell-Lockman
+LDPE Granule,10/25/2025,47,Portugal,O'Connell LLC
+PET Flake,7/3/2024,36,Czech Republic,Keebler and Sons
+LDPE Granule,9/20/2025,56,Colombia,Rolfson-Corkery
+LDPE Granule,1/10/2024,60,Honduras,"Terry, Quigley and Graham"
+HDPE Granule,6/19/2024,36,Greece,"Weimann, Crist and Robel"
+HDPE Granule,1/1/2025,53,China,"Hane, Flatley and Tillman"
+HDPE Granule,9/30/2025,85,Peru,Gibson Inc
+HDPE Granule,12/20/2025,44,China,"Lemke, Hegmann and Bergstrom"
+LDPE Granule,7/3/2024,95,Argentina,Runte-Dibbert
+HDPE Granule,2/8/2025,71,Thailand,"Miller, Johns and Watsica"
+HDPE Granule,3/8/2025,85,Indonesia,"Moore, Gislason and Kozey"
+LDPE Granule,7/29/2024,26,France,"Abernathy, Huels and Legros"
+PET Flake,2/15/2025,93,Ethiopia,Beatty-Toy
+LDPE Granule,7/28/2024,49,Yemen,Cronin-Franecki
+HDPE Granule,10/12/2024,41,Germany,Kohler-Ortiz
+HDPE Granule,3/31/2024,65,Russia,Collier LLC
+HDPE Granule,7/4/2024,76,Palestinian Territory,Von-Wintheiser
+LDPE Granule,4/5/2024,93,Sierra Leone,"Schuppe, Christiansen and Von"
+HDPE Granule,2/19/2025,34,Thailand,Little-Barton
+HDPE Granule,3/3/2025,26,Indonesia,Kirlin LLC
+PET Flake,8/9/2025,22,China,Braun-Feil
+LDPE Granule,3/27/2025,59,China,Larkin Inc
+LDPE Granule,10/21/2025,90,Sweden,Doyle LLC
+HDPE Granule,11/22/2025,89,China,"Bartoletti, Auer and Pollich"
+HDPE Granule,2/25/2024,83,Russia,Heaney-Carter
+HDPE Granule,10/3/2025,90,Sweden,Kshlerin LLC
+PET Flake,8/3/2024,9,Sweden,Koss and Sons
+LDPE Granule,4/22/2024,30,Indonesia,Beer Group
+PET Flake,6/14/2025,15,Indonesia,"Quitzon, Lesch and Ritchie"
+LDPE Granule,1/22/2025,8,China,"Crist, Marquardt and Ziemann"
+HDPE Granule,6/12/2024,35,Russia,Vandervort-Kuhn
+LDPE Granule,12/28/2024,28,China,Harber and Sons
+LDPE Granule,5/3/2024,62,China,Vandervort-Runolfsson
+PET Flake,11/10/2024,79,Brazil,Bradtke Group
+PET Flake,4/15/2025,66,Kosovo,Lockman-Predovic
+LDPE Granule,4/24/2024,41,Russia,Brekke-Haag
+HDPE Granule,5/7/2025,97,Greece,"Connelly, McCullough and Stamm"
+HDPE Granule,4/26/2024,19,Russia,Halvorson-Schneider
+LDPE Granule,4/12/2024,4,Kenya,Kling LLC
+LDPE Granule,6/28/2025,97,France,"Abbott, Lebsack and Jacobs"
+LDPE Granule,12/24/2025,85,Japan,King-Sauer
+HDPE Granule,5/26/2025,94,China,Harber-Koelpin
+LDPE Granule,5/6/2025,41,Indonesia,"Toy, DuBuque and Harris"
+HDPE Granule,1/26/2025,91,China,Connelly-Denesik
+HDPE Granule,7/1/2024,5,Estonia,Gusikowski Inc
+HDPE Granule,4/24/2025,2,China,Armstrong-Glover
+PET Flake,1/3/2024,97,Greece,"West, West and Stanton"
+LDPE Granule,3/1/2025,68,Indonesia,Stoltenberg-Schmeler
+PET Flake,12/20/2025,65,Bolivia,Rau and Sons
+HDPE Granule,2/3/2024,71,Indonesia,Hirthe and Sons
+LDPE Granule,9/6/2025,17,Philippines,"Schroeder, Wintheiser and Fadel"
+HDPE Granule,10/31/2025,1,Indonesia,"Weissnat, Glover and Braun"
+HDPE Granule,10/2/2025,11,Afghanistan,Boyer Inc
+LDPE Granule,3/7/2024,65,Ireland,Hermiston-Kuhic
+LDPE Granule,3/6/2025,99,Indonesia,Jacobi and Sons
+LDPE Granule,11/5/2024,20,Russia,Treutel-O'Reilly
+LDPE Granule,9/4/2024,4,Indonesia,Hagenes Group
+LDPE Granule,5/29/2024,69,Philippines,"Steuber, Hagenes and Kreiger"
+LDPE Granule,10/5/2025,77,Guatemala,Paucek LLC
+LDPE Granule,5/28/2024,5,Russia,"Ward, Lehner and Ryan"
+PET Flake,5/24/2024,25,Croatia,"Jones, Fadel and Rice"
+HDPE Granule,11/15/2025,62,Portugal,"Ledner, Cummerata and Wilkinson"
+HDPE Granule,8/4/2024,25,Argentina,Hills Inc
+LDPE Granule,9/17/2024,56,Indonesia,Wisoky-Langosh
+PET Flake,1/26/2024,48,Philippines,Rohan-Hessel
+HDPE Granule,11/25/2024,82,Russia,Runolfsdottir and Sons
+HDPE Granule,12/28/2025,45,China,Davis Group
+LDPE Granule,12/20/2024,76,Russia,Barrows LLC
+HDPE Granule,9/1/2024,61,Indonesia,Pouros-White
+HDPE Granule,10/27/2025,25,Poland,Gleichner-Marks
+LDPE Granule,8/21/2025,32,Panama,Medhurst and Sons
+HDPE Granule,4/13/2025,96,United States,Reilly-Heidenreich
+LDPE Granule,6/13/2024,9,France,Harvey Group
+LDPE Granule,4/19/2025,100,Indonesia,"Bergnaum, Leffler and Windler"
+HDPE Granule,9/14/2024,86,China,Kihn-Reilly
+PET Flake,11/5/2024,62,Indonesia,Hessel-Cruickshank
+LDPE Granule,5/10/2024,85,Poland,Streich-Murray
+LDPE Granule,3/14/2024,52,China,"Buckridge, Schuppe and Hansen"
+LDPE Granule,11/1/2025,72,Nicaragua,McLaughlin and Sons
+HDPE Granule,3/26/2024,93,Indonesia,O'Connell-Herman
+HDPE Granule,3/17/2024,34,China,"Koch, Kunde and Gutmann"
+PET Flake,12/21/2024,21,Indonesia,Mraz and Sons
+PET Flake,1/4/2025,6,Sweden,"Jerde, Rice and Nicolas"
+PET Flake,4/6/2024,58,Saudi Arabia,Hermann Group
+HDPE Granule,2/7/2024,52,Russia,Altenwerth-Turner
+PET Flake,6/8/2025,85,China,Daniel and Sons
+LDPE Granule,11/8/2024,72,China,"Rutherford, Funk and Murazik"
+LDPE Granule,7/29/2024,38,Tanzania,Lebsack Inc
+LDPE Granule,9/18/2025,66,Philippines,Green Group
+HDPE Granule,4/21/2024,80,China,"Beer, Bergnaum and Rohan"
+PET Flake,12/15/2024,8,Russia,Predovic Inc
+HDPE Granule,3/7/2025,56,Portugal,"Willms, Franecki and Schroeder"
+HDPE Granule,9/9/2024,47,France,Gutkowski LLC
+PET Flake,3/4/2024,88,North Korea,Wolff LLC
+PET Flake,12/20/2024,93,Indonesia,Gerlach LLC
+PET Flake,3/17/2024,77,Ukraine,Kirlin-Schaefer
+HDPE Granule,12/25/2024,81,Ivory Coast,Leffler-Smith
+PET Flake,4/14/2024,88,Canada,Denesik-Rowe
+LDPE Granule,6/18/2024,67,Philippines,"Mohr, Hickle and Williamson"
+PET Flake,12/30/2024,94,Russia,Lebsack Inc
+HDPE Granule,11/3/2025,45,Ukraine,Powlowski Inc
+HDPE Granule,3/27/2024,77,China,Herman-Harris
+HDPE Granule,8/20/2024,100,Ukraine,Runte-Harris
+LDPE Granule,9/30/2025,51,Japan,Kunze-Mraz
+LDPE Granule,11/11/2024,35,Malaysia,Stiedemann LLC
+HDPE Granule,7/15/2025,35,China,Rempel-Leuschke
+PET Flake,10/31/2025,37,Moldova,Fay Group
+LDPE Granule,2/6/2024,65,Syria,Carroll LLC
+LDPE Granule,1/30/2025,15,Finland,Becker Group
+PET Flake,12/25/2025,72,Mexico,Schuster Inc
+LDPE Granule,4/4/2024,39,New Zealand,"Pollich, Kreiger and McLaughlin"
+PET Flake,3/10/2024,41,Indonesia,"Herzog, Cummings and Olson"
+HDPE Granule,12/27/2024,30,China,Nolan LLC
+PET Flake,8/10/2024,87,Sweden,"Farrell, Hodkiewicz and Walter"
+LDPE Granule,9/13/2025,75,Benin,"Barrows, Erdman and Reichel"
+PET Flake,12/1/2025,26,Tanzania,"Osinski, Lemke and Schaefer"
+LDPE Granule,5/9/2025,82,Finland,"O'Hara, Lakin and Thompson"
+PET Flake,7/16/2025,82,Japan,"McGlynn, Tillman and Auer"
+PET Flake,12/1/2025,76,France,Bauch-Lehner
+LDPE Granule,11/20/2024,56,Ukraine,Swaniawski Inc
+PET Flake,10/19/2024,98,France,Steuber-Funk
+PET Flake,11/13/2024,84,Philippines,Feeney-Kertzmann
+LDPE Granule,5/13/2025,35,Russia,O'Conner-Altenwerth
+HDPE Granule,3/7/2024,95,Brazil,"McClure, Raynor and Gorczany"
+HDPE Granule,3/2/2024,33,Turkmenistan,Ledner-Schneider
+LDPE Granule,6/11/2025,88,China,Wilderman and Sons
+LDPE Granule,7/17/2024,71,Palestinian Territory,"Ernser, Langworth and Goldner"
+PET Flake,3/18/2024,67,China,Wolff-Kerluke
+LDPE Granule,6/21/2025,61,Germany,"Padberg, Dibbert and Mayert"
+HDPE Granule,7/4/2024,44,Finland,"Bosco, Aufderhar and Rice"
+HDPE Granule,9/15/2024,56,Indonesia,"Douglas, Hilll and Welch"
+HDPE Granule,6/9/2025,78,China,Wyman-Nitzsche
+PET Flake,5/30/2024,36,China,Beatty Group
+HDPE Granule,9/28/2025,52,China,Turcotte LLC
+HDPE Granule,10/25/2025,36,Malaysia,Murphy Inc
+PET Flake,3/4/2024,3,China,"Hintz, Morar and Deckow"
+LDPE Granule,4/1/2024,30,Philippines,Fadel LLC
+PET Flake,11/4/2024,23,China,Krajcik LLC
+HDPE Granule,12/27/2025,7,China,Vandervort-Metz
+PET Flake,6/29/2024,14,Sweden,Koch-Boehm
+HDPE Granule,1/25/2025,63,Afghanistan,Hills-O'Conner
+PET Flake,2/16/2025,63,Nicaragua,Hintz Group
+HDPE Granule,3/17/2025,87,Argentina,"Cummings, Hills and Stark"
+HDPE Granule,1/12/2024,14,United States,"Johnston, Klocko and Witting"
+PET Flake,5/16/2025,53,Sweden,Upton Group
+PET Flake,10/23/2024,96,Albania,Bednar-Ziemann
+HDPE Granule,10/26/2025,98,Russia,Schuppe LLC
+PET Flake,10/30/2025,35,France,Keeling and Sons
+PET Flake,2/16/2024,28,Portugal,Abshire Inc
+LDPE Granule,6/16/2024,89,North Korea,"Boehm, Simonis and Schinner"
+PET Flake,4/29/2024,100,Dominican Republic,"Bashirian, Romaguera and Hegmann"
+HDPE Granule,7/31/2024,47,Solomon Islands,Rosenbaum Inc
+LDPE Granule,8/17/2024,77,China,Jaskolski LLC
+HDPE Granule,11/4/2024,12,Uzbekistan,Hintz-Dietrich
+HDPE Granule,6/24/2025,58,China,Braun Group
+LDPE Granule,9/19/2025,8,United States,Schmitt-Gibson
+LDPE Granule,6/19/2025,30,United States,Watsica-Mayert
+LDPE Granule,1/29/2025,40,Israel,Parisian Group
+HDPE Granule,12/18/2025,11,Philippines,Gulgowski Group
+PET Flake,8/17/2025,2,Portugal,Mills Group
+PET Flake,1/2/2025,90,Philippines,Pfeffer Group
+PET Flake,12/15/2025,28,China,Goyette-Jenkins
+HDPE Granule,6/4/2025,22,Philippines,Nitzsche Inc
+LDPE Granule,8/5/2024,81,Peru,Cole-VonRueden
+LDPE Granule,7/3/2025,22,Indonesia,"Hettinger, West and O'Kon"
+HDPE Granule,4/4/2024,50,Russia,O'Keefe and Sons
+LDPE Granule,10/31/2025,5,Yemen,Kessler LLC
+LDPE Granule,11/4/2024,89,Tanzania,Hintz-Mann
+LDPE Granule,8/4/2025,84,China,"Turcotte, Ferry and Erdman"
+HDPE Granule,6/5/2024,50,Indonesia,"Mayert, Koch and Beier"
+LDPE Granule,5/14/2025,86,Argentina,Gleason and Sons
+LDPE Granule,7/31/2024,30,Nigeria,Torp LLC
+PET Flake,7/4/2024,93,Togo,Wunsch Group
+PET Flake,4/20/2025,36,Philippines,Macejkovic Inc
+LDPE Granule,10/24/2025,81,Brazil,Thompson-Macejkovic
+HDPE Granule,11/4/2025,48,Armenia,Jacobs and Sons
+HDPE Granule,4/8/2025,15,Indonesia,"Torp, Welch and Collier"
+HDPE Granule,1/17/2025,74,Argentina,Kilback-Gutmann
+PET Flake,8/13/2025,57,Portugal,Hartmann Group
+LDPE Granule,12/29/2024,98,Russia,Ryan-White
+PET Flake,2/24/2024,35,Armenia,Smitham-Mohr
+LDPE Granule,5/30/2025,1,Philippines,Gibson-Stokes
+PET Flake,4/4/2025,68,Japan,"Purdy, Doyle and Schimmel"
+PET Flake,11/9/2024,94,Japan,Gleason-Rippin
+HDPE Granule,5/15/2025,21,Portugal,"Weber, Jerde and Ritchie"
+LDPE Granule,7/28/2025,91,Cameroon,Gleichner-Yost
+LDPE Granule,9/24/2025,38,Egypt,Dicki LLC
+PET Flake,5/15/2024,1,Ireland,Adams-Conroy
+PET Flake,11/14/2024,68,Indonesia,Weimann-Ondricka
+PET Flake,8/26/2025,76,Colombia,Moen-Stokes
+HDPE Granule,9/1/2024,88,Ireland,Hudson-Bergstrom
+LDPE Granule,12/17/2024,9,Russia,"Watsica, Feil and O'Kon"
+HDPE Granule,3/29/2025,82,United States,"Gerlach, Kiehn and Champlin"
+PET Flake,2/15/2025,81,India,"Schulist, Kemmer and Rogahn"
+PET Flake,8/21/2024,71,Kyrgyzstan,Adams-Kassulke
+HDPE Granule,8/20/2024,85,Peru,"Zieme, Marvin and Ziemann"
+HDPE Granule,11/21/2024,61,Indonesia,Dickinson-Turcotte
+PET Flake,6/8/2025,91,Dominican Republic,Macejkovic LLC
+HDPE Granule,11/3/2024,49,Turkey,Armstrong-Kuphal
+HDPE Granule,4/8/2024,100,China,Jerde-Oberbrunner
+LDPE Granule,7/18/2024,34,Kenya,Casper-Wisozk
+HDPE Granule,12/2/2025,73,Indonesia,Effertz-Harber
+HDPE Granule,1/22/2025,79,France,"Daugherty, Koelpin and King"
+HDPE Granule,2/5/2024,72,China,Little-Bergstrom
+PET Flake,12/29/2024,45,Indonesia,"Watsica, Kertzmann and Mayer"
+LDPE Granule,8/9/2024,63,France,Cummerata-Kirlin
+LDPE Granule,12/29/2025,66,Indonesia,Rau-Dietrich
+LDPE Granule,9/24/2024,61,Guatemala,Rolfson Group
+PET Flake,5/18/2024,59,Indonesia,Kulas LLC
+PET Flake,2/24/2024,9,China,"Mann, Smitham and Lubowitz"
+HDPE Granule,10/28/2025,48,China,Gleason-Hackett
+HDPE Granule,8/14/2025,75,Argentina,"Bahringer, Mueller and Zulauf"
+HDPE Granule,2/7/2025,91,Malta,Lockman Group
+LDPE Granule,1/16/2024,52,Philippines,Bruen-Rowe
+LDPE Granule,11/25/2024,29,China,Heller-Pollich
+PET Flake,4/27/2025,60,Indonesia,"Boyer, Sanford and Johnston"
+LDPE Granule,7/13/2025,20,Indonesia,Gerhold-Reinger
+HDPE Granule,10/14/2024,67,Indonesia,"Keeling, Zulauf and Cremin"
+PET Flake,7/17/2025,91,China,Johnston LLC
+HDPE Granule,3/31/2024,74,France,Berge-Abbott
+PET Flake,1/10/2024,23,Ivory Coast,"Feeney, Nicolas and Pollich"
+HDPE Granule,5/30/2025,2,United States,"Casper, Denesik and Larson"
+LDPE Granule,5/3/2024,55,Indonesia,Schinner LLC
+PET Flake,7/12/2025,20,China,Smith LLC
+HDPE Granule,6/27/2025,2,Iraq,Gottlieb and Sons
+HDPE Granule,4/3/2025,29,Mongolia,Schumm-Mosciski
+PET Flake,10/10/2025,34,United States,Kuhic and Sons
+LDPE Granule,4/23/2024,13,Japan,Emmerich-Hayes
+PET Flake,3/27/2025,64,Brazil,"Kreiger, Hamill and White"
+HDPE Granule,12/16/2025,96,China,"West, Hilll and Denesik"
+HDPE Granule,3/23/2025,37,Portugal,"Durgan, Emard and Waters"
+PET Flake,2/22/2024,5,China,Kerluke-Morissette
+PET Flake,5/29/2024,66,Russia,"Fadel, Durgan and Bartoletti"
+PET Flake,8/18/2025,49,Philippines,"Marquardt, Cremin and Schaden"
+HDPE Granule,10/11/2024,82,South Africa,"Labadie, Roob and Kuhlman"
+HDPE Granule,8/30/2024,40,Argentina,"Parker, Schneider and Botsford"
+LDPE Granule,5/8/2024,90,Indonesia,"Schmidt, Farrell and Marks"
+LDPE Granule,7/26/2025,49,Portugal,Gutkowski LLC
+LDPE Granule,7/15/2024,86,Guatemala,Goldner Group
+LDPE Granule,9/23/2025,55,Vietnam,Blick LLC
+HDPE Granule,2/26/2024,56,Philippines,Gusikowski-Keeling
+PET Flake,8/14/2025,73,Palestinian Territory,Russel-Marquardt
+PET Flake,3/30/2024,50,Indonesia,"Hoppe, Larson and Rolfson"
+PET Flake,6/9/2025,87,Brazil,Hintz Inc
+HDPE Granule,6/21/2024,35,China,Reichert-Bogisich
+PET Flake,2/9/2025,61,China,Pouros LLC
+HDPE Granule,6/29/2024,96,Russia,"Leffler, Hackett and Heller"
+LDPE Granule,8/14/2025,5,Cuba,Bednar and Sons
+LDPE Granule,11/22/2025,58,Nicaragua,"Walsh, Fisher and Rutherford"
+PET Flake,11/18/2024,52,Philippines,Bogisich-Jacobs
+PET Flake,1/25/2025,75,France,Adams and Sons
+HDPE Granule,5/30/2025,92,France,"Ortiz, Dooley and Ratke"
+PET Flake,11/22/2025,34,Philippines,Kessler LLC
+HDPE Granule,11/9/2024,85,Indonesia,McDermott-Hirthe
+HDPE Granule,11/2/2025,4,Macedonia,"Crooks, Windler and Pagac"
+PET Flake,5/2/2025,25,Luxembourg,Wunsch-Aufderhar
+LDPE Granule,8/4/2025,92,Sudan,"Quigley, Langosh and Littel"
+PET Flake,12/23/2024,39,China,Mosciski and Sons
+LDPE Granule,12/7/2025,60,Philippines,"Lebsack, Fisher and Boehm"
+LDPE Granule,1/13/2025,21,Sweden,McGlynn Group
+HDPE Granule,8/24/2025,52,Poland,Beahan-Gislason
+LDPE Granule,5/12/2025,13,Philippines,"Turner, Rau and Watsica"
+HDPE Granule,1/19/2024,1,Brazil,"Kihn, Dach and Skiles"
+PET Flake,1/27/2024,33,Russia,"Bogan, Jacobs and Considine"
+HDPE Granule,8/7/2024,66,Sweden,Stehr-Connelly
+PET Flake,6/26/2024,93,France,Treutel LLC
+LDPE Granule,12/16/2025,16,Thailand,"Luettgen, Leannon and Graham"
+HDPE Granule,6/17/2024,79,Canada,"Kuhlman, Thompson and Collins"
+LDPE Granule,4/11/2025,100,Indonesia,Carter-Towne
+LDPE Granule,3/25/2025,44,Russia,Wilderman-Lakin
+HDPE Granule,3/1/2025,29,Peru,Grimes-Predovic
+PET Flake,10/18/2025,92,Somalia,Lang-Schaden
+HDPE Granule,7/9/2025,97,China,Zemlak-Harber
+HDPE Granule,3/19/2025,48,Greece,Wilderman Inc
+LDPE Granule,6/14/2025,9,Philippines,D'Amore Group
+PET Flake,1/20/2025,66,Greece,Dickinson Group
+PET Flake,5/16/2025,64,Japan,"Farrell, Reynolds and Hettinger"
+LDPE Granule,10/16/2025,74,France,Koss LLC
+PET Flake,3/16/2025,93,Philippines,Orn-Will
+HDPE Granule,9/17/2025,51,Republic of the Congo,Gleichner and Sons
+LDPE Granule,2/20/2025,68,Greece,"Haley, Metz and Brakus"
+PET Flake,3/6/2024,15,Czech Republic,Mertz and Sons
+LDPE Granule,9/2/2025,67,United Arab Emirates,Pfeffer Group
+PET Flake,6/16/2024,83,China,Dibbert-Wilderman
+HDPE Granule,10/21/2025,100,Greece,Mohr LLC
+LDPE Granule,2/22/2025,61,Poland,Shanahan Group
+HDPE Granule,7/18/2024,63,Cameroon,"Ledner, Nienow and O'Kon"
+HDPE Granule,10/13/2025,28,Syria,"Hermann, Weber and Hegmann"
+LDPE Granule,3/18/2025,15,Namibia,"Parisian, Beahan and Kozey"
+HDPE Granule,12/13/2025,50,Zimbabwe,Weimann-Parker
+HDPE Granule,2/25/2024,67,China,Armstrong-Stroman
+PET Flake,4/25/2025,39,Russia,"Franecki, Block and Mann"
+HDPE Granule,2/9/2025,45,Croatia,Gusikowski-Huel
+LDPE Granule,9/18/2024,33,China,Lockman LLC
+PET Flake,8/24/2025,57,Serbia,"Kuhic, Kerluke and Kub"
+PET Flake,12/28/2025,3,Indonesia,"Jacobs, Collier and Murazik"
+LDPE Granule,12/30/2024,21,China,"Will, Fay and Mayert"
+PET Flake,4/8/2025,80,Pakistan,Kohler LLC
+PET Flake,2/22/2025,55,Austria,"Hudson, Champlin and Strosin"
+LDPE Granule,11/24/2024,35,China,Bechtelar-Cummerata
+PET Flake,10/6/2025,10,Canada,Orn Group
+LDPE Granule,11/2/2024,31,Togo,Mayert-Hoppe
+HDPE Granule,10/16/2024,20,Finland,Batz Group
+PET Flake,11/12/2025,95,Portugal,Hodkiewicz Group
+HDPE Granule,5/29/2025,45,Philippines,Corkery-Senger
+LDPE Granule,6/13/2025,48,Libya,Fadel and Sons
+LDPE Granule,12/6/2024,47,Cuba,Hoppe-Blick
+PET Flake,5/19/2024,80,China,"Mertz, Becker and McDermott"
+LDPE Granule,11/10/2025,84,Madagascar,"Stoltenberg, Schneider and West"
+PET Flake,7/10/2024,99,Indonesia,Kozey-Feeney
+LDPE Granule,12/17/2025,23,China,"Hagenes, Kirlin and Romaguera"
+HDPE Granule,6/9/2025,87,Ukraine,Treutel-Lemke
+HDPE Granule,3/20/2024,59,Mexico,Gleichner Group
+HDPE Granule,11/27/2025,41,Colombia,Bauch and Sons
+HDPE Granule,7/26/2025,7,Sweden,Nader Inc
+PET Flake,5/24/2024,100,Guatemala,"Krajcik, Stehr and O'Hara"
+LDPE Granule,6/3/2025,74,China,Goldner LLC
+PET Flake,8/21/2025,12,China,"Connelly, Lesch and Fay"
+PET Flake,12/9/2025,41,Indonesia,Little-O'Keefe
+HDPE Granule,1/19/2024,32,Germany,Murray Inc
+PET Flake,12/19/2025,8,Russia,Lakin-Bosco
+LDPE Granule,10/28/2025,39,Russia,Bogan-Little
+LDPE Granule,11/1/2025,49,China,"Nolan, Reynolds and Kertzmann"
+PET Flake,10/31/2024,93,Bulgaria,Simonis-Shields
+LDPE Granule,2/10/2024,92,Philippines,Feest LLC
+PET Flake,3/31/2025,20,Russia,Labadie-Gerlach
+HDPE Granule,4/28/2025,88,China,"Prosacco, Bosco and Watsica"
+HDPE Granule,9/27/2025,20,Haiti,"Davis, Littel and Yundt"
+LDPE Granule,2/22/2024,25,Brazil,Bahringer and Sons
+PET Flake,5/31/2025,23,Czech Republic,Ondricka-Hayes
+LDPE Granule,5/8/2025,84,China,Gleason-Treutel
+HDPE Granule,2/12/2024,22,Greece,Hoeger-Labadie
+HDPE Granule,6/3/2025,72,Indonesia,"Rogahn, Medhurst and Herman"
+HDPE Granule,1/10/2024,42,Kazakhstan,"Bednar, McLaughlin and Lynch"
+HDPE Granule,6/16/2025,6,China,Fadel Inc
+HDPE Granule,1/3/2025,30,United States,Emard-Mohr
+LDPE Granule,3/22/2025,62,South Korea,Kris-Mante
+LDPE Granule,4/17/2025,80,China,"Kemmer, Witting and Swift"
+LDPE Granule,4/1/2025,67,Netherlands,Considine and Sons
+PET Flake,4/8/2025,71,China,Deckow LLC
+HDPE Granule,8/1/2024,50,Philippines,Abernathy-Schultz
+HDPE Granule,8/14/2025,52,Poland,Boyer-Paucek
+HDPE Granule,7/6/2025,64,Canada,Morar and Sons
+HDPE Granule,7/20/2024,96,Philippines,Nitzsche-Kulas
+LDPE Granule,4/3/2024,73,Angola,"Jones, Pouros and Stanton"
+HDPE Granule,4/13/2024,98,China,Wiegand-O'Reilly
+HDPE Granule,4/30/2025,93,Russia,Considine and Sons
+PET Flake,1/19/2024,86,Finland,Jaskolski and Sons
+PET Flake,12/19/2025,12,United States,Altenwerth-Cormier
+LDPE Granule,1/25/2025,98,Russia,"Gerlach, Gleichner and Crona"
+HDPE Granule,6/29/2025,1,Uzbekistan,Gislason-Bergstrom
+LDPE Granule,7/13/2025,81,Peru,"Zboncak, Schulist and Smitham"
+PET Flake,11/24/2024,73,Indonesia,"Gerlach, Kassulke and Runolfsson"
+PET Flake,11/14/2024,4,China,Kirlin-Cremin
+PET Flake,12/19/2025,3,Iraq,Balistreri Inc
+PET Flake,6/13/2024,77,Thailand,"Schoen, Borer and Ullrich"
+PET Flake,7/30/2024,92,Russia,Crooks and Sons
+HDPE Granule,6/5/2025,82,Japan,Baumbach-Mann
+PET Flake,7/3/2025,19,Saint Helena,"Rempel, Konopelski and Braun"
+PET Flake,7/3/2025,53,Brazil,Hilpert and Sons
+HDPE Granule,9/13/2025,88,Thailand,McCullough-Ernser
+PET Flake,9/13/2024,47,Albania,Johns Group
+LDPE Granule,1/24/2024,10,Sweden,Larson-Raynor
+HDPE Granule,5/9/2024,35,Canada,Greenfelder LLC
+LDPE Granule,1/26/2024,86,China,Hansen-Watsica
+HDPE Granule,8/7/2024,85,Russia,Metz and Sons
+HDPE Granule,2/17/2025,59,Bangladesh,McGlynn-Steuber
+PET Flake,7/1/2024,40,China,Bogan Group
+PET Flake,10/26/2025,20,France,Morar-Block
+PET Flake,12/20/2024,63,Poland,"Kovacek, Beatty and Funk"
+PET Flake,12/5/2024,65,Thailand,Grady Inc
+PET Flake,1/30/2025,57,China,Denesik LLC
+PET Flake,10/18/2024,23,Saudi Arabia,"Mertz, Fadel and Bogisich"
+PET Flake,4/1/2024,94,Ivory Coast,Purdy-Prosacco
+LDPE Granule,8/30/2024,22,Philippines,Berge and Sons
+HDPE Granule,6/1/2024,40,China,Labadie and Sons
+HDPE Granule,4/27/2025,13,Burkina Faso,Franecki-Mayer
+LDPE Granule,11/19/2025,82,Russia,Orn-Blick
+HDPE Granule,2/4/2024,74,Philippines,"Smitham, Hane and Kessler"
+HDPE Granule,1/18/2025,47,United States,Breitenberg-Bradtke
+LDPE Granule,9/19/2024,1,Brazil,Emard-Jakubowski
+LDPE Granule,1/20/2025,28,Indonesia,Mohr and Sons
+HDPE Granule,9/12/2024,51,Colombia,Fay-Bins
+LDPE Granule,3/5/2025,3,El Salvador,Koepp and Sons
+HDPE Granule,9/18/2025,26,Serbia,O'Hara-Schowalter
+HDPE Granule,1/22/2025,98,Bosnia and Herzegovina,"Bartell, Baumbach and Mayert"
+LDPE Granule,9/29/2024,10,Morocco,Hane-Sawayn
+LDPE Granule,12/25/2024,46,China,"Willms, Okuneva and Hessel"
+HDPE Granule,10/5/2025,56,Kuwait,"Rath, Huel and Waters"
+PET Flake,11/30/2025,49,China,Hyatt LLC
+PET Flake,5/1/2025,13,Japan,Bashirian-Adams
+PET Flake,1/29/2025,91,Sweden,"Becker, Walsh and Gislason"
+LDPE Granule,10/8/2024,39,Greece,Heller and Sons
+HDPE Granule,4/7/2025,10,France,Cormier-Mitchell
+HDPE Granule,11/5/2024,28,China,"Hermann, Ledner and Harvey"
+HDPE Granule,2/4/2024,73,Japan,"Bailey, Leannon and Muller"
+PET Flake,11/11/2024,40,Indonesia,Greenholt-Graham
+LDPE Granule,7/8/2025,68,Indonesia,Herman-Roberts
+HDPE Granule,2/17/2024,14,Egypt,Hahn-Miller
+PET Flake,12/8/2025,27,Greece,Sanford LLC
+HDPE Granule,4/12/2024,58,Croatia,"Schumm, Schumm and Pfeffer"
+PET Flake,5/22/2025,74,Poland,"Rice, Halvorson and Rice"
+LDPE Granule,11/21/2024,74,China,Legros Inc
+HDPE Granule,3/21/2024,18,China,Bartoletti-Kirlin
+PET Flake,4/26/2024,10,China,Barton Inc
+LDPE Granule,5/15/2024,39,Greece,Goldner-Oberbrunner
+PET Flake,1/6/2024,81,Sweden,"McClure, Cummings and Bayer"
+HDPE Granule,4/26/2025,59,China,Luettgen LLC
+LDPE Granule,4/23/2024,4,Philippines,Romaguera and Sons
+LDPE Granule,7/28/2025,50,Nigeria,"Block, Bailey and Halvorson"
+PET Flake,4/6/2024,75,Indonesia,Hackett-Ward
+HDPE Granule,10/27/2024,57,Philippines,Davis Group
+PET Flake,6/21/2024,37,Ukraine,Waters-Ledner
+PET Flake,1/25/2025,71,China,"Lesch, Kessler and Bradtke"
+HDPE Granule,10/17/2024,61,France,Rath-Powlowski
+HDPE Granule,6/4/2025,63,South Africa,Leffler LLC
+PET Flake,6/13/2024,34,Ukraine,Swift-Hilpert
+HDPE Granule,4/3/2025,20,Portugal,Pacocha Group
+LDPE Granule,4/22/2024,18,China,Bartell Group
+PET Flake,8/20/2025,51,Venezuela,Wilkinson-Bechtelar
+PET Flake,5/15/2024,82,Czech Republic,Yundt-O'Conner
+PET Flake,1/16/2025,71,Brazil,"Bergnaum, Yundt and Weissnat"
+LDPE Granule,4/16/2025,71,China,Kris-Hammes
+PET Flake,8/6/2024,52,Brazil,"Quitzon, Boyer and Schmidt"
+HDPE Granule,11/27/2024,12,Russia,Connelly LLC
+HDPE Granule,1/14/2024,9,Armenia,Lehner-Kreiger
+PET Flake,4/8/2025,74,Pakistan,Klein-Wunsch
+PET Flake,5/28/2025,89,Philippines,Breitenberg-Volkman
+PET Flake,8/22/2024,64,Georgia,Gibson-O'Keefe
+HDPE Granule,1/22/2025,23,Russia,"Lebsack, Nikolaus and Ritchie"
+HDPE Granule,12/7/2025,18,Norway,Lind-Willms
+LDPE Granule,8/8/2024,58,France,"Littel, Klocko and Kreiger"
+LDPE Granule,4/25/2024,49,Bosnia and Herzegovina,Hansen-Keeling
+PET Flake,7/16/2024,47,Philippines,Howell-Runolfsson
+HDPE Granule,5/18/2025,41,Portugal,"Rath, Langosh and Botsford"
+LDPE Granule,5/27/2025,46,China,"Turner, Schinner and Cummerata"
+LDPE Granule,12/9/2024,4,China,"Wiegand, Bogisich and Donnelly"
+PET Flake,10/5/2025,8,Mongolia,Roberts-Harber
+HDPE Granule,8/14/2024,58,Indonesia,"Jenkins, Runolfsson and Gulgowski"
+PET Flake,3/17/2024,16,Indonesia,Weissnat-Kulas
+PET Flake,9/19/2025,100,Indonesia,Heaney LLC
+HDPE Granule,11/22/2024,59,Germany,Streich-Runolfsson
+PET Flake,9/28/2025,1,Tunisia,Streich-Waters
+PET Flake,3/9/2025,6,Russia,Runte Group
+PET Flake,5/2/2024,41,China,"Blanda, Sporer and Rutherford"
+HDPE Granule,10/30/2024,73,Macedonia,Nienow-Romaguera
+HDPE Granule,10/16/2024,76,Mexico,Wilderman-Ortiz
+HDPE Granule,3/4/2025,79,Russia,Dicki-Emmerich
+PET Flake,10/16/2024,92,China,"Von, Howell and Leannon"
+PET Flake,9/16/2025,56,South Africa,"Rowe, Gulgowski and Carroll"
+HDPE Granule,6/4/2025,82,Indonesia,Prosacco-Farrell
+LDPE Granule,2/28/2025,65,China,Wiegand Group
+PET Flake,8/30/2024,55,Indonesia,"Stiedemann, Considine and Klein"
+HDPE Granule,9/6/2025,42,Indonesia,Ankunding-Kohler
+PET Flake,5/18/2025,99,Greece,"Turner, Emmerich and Klein"
+LDPE Granule,11/4/2024,52,China,Reilly Inc
+LDPE Granule,12/13/2025,90,Argentina,"Feeney, Kozey and Mann"
+PET Flake,8/8/2025,98,Brazil,"Satterfield, Shanahan and Jacobi"
+HDPE Granule,6/13/2024,62,Poland,Gottlieb-Halvorson
+PET Flake,2/21/2025,95,Sweden,Swaniawski-Price
+HDPE Granule,4/18/2025,7,Sweden,"Bashirian, D'Amore and Crooks"
+PET Flake,2/20/2024,84,Poland,"Fahey, Conroy and Harvey"
+HDPE Granule,6/6/2025,29,Philippines,Hoppe-Nicolas
+PET Flake,2/2/2024,46,China,Heidenreich-Adams
+LDPE Granule,4/8/2024,58,China,"Tromp, Cassin and Rohan"
+HDPE Granule,4/28/2025,27,China,"Ward, Crooks and Hettinger"
+PET Flake,2/7/2024,77,Brazil,Labadie and Sons
+LDPE Granule,1/27/2025,71,Grenada,"Johnson, Trantow and Ortiz"
+LDPE Granule,5/14/2025,9,Czech Republic,"Blanda, Sawayn and Cole"
+HDPE Granule,7/18/2024,39,China,Hilpert Group
+HDPE Granule,9/29/2025,95,Russia,Fadel-Bailey
+LDPE Granule,12/8/2024,38,Georgia,"Schamberger, Swift and Ryan"
+PET Flake,4/27/2025,44,Poland,"Powlowski, Walsh and Parisian"
+LDPE Granule,5/7/2025,100,Indonesia,"Medhurst, Stoltenberg and Grimes"
+HDPE Granule,8/13/2024,47,Indonesia,"Nitzsche, Crist and Yost"
+HDPE Granule,7/12/2025,1,China,Weber-Ferry
+LDPE Granule,12/23/2024,73,Philippines,"Stroman, Lowe and Krajcik"
+LDPE Granule,6/17/2025,38,Philippines,Bode-Schroeder
+PET Flake,12/20/2025,97,Russia,"Cassin, Bernhard and Hane"
+PET Flake,8/6/2024,98,China,Satterfield Inc
+HDPE Granule,3/10/2025,54,Vietnam,"Weber, Olson and Murazik"
+PET Flake,9/28/2025,89,China,"Bayer, Mraz and Parker"
+LDPE Granule,12/29/2025,41,China,Bauch-Metz
+LDPE Granule,11/1/2024,99,Guatemala,Baumbach and Sons
+LDPE Granule,8/1/2025,66,Philippines,Ruecker-Koepp
+HDPE Granule,3/5/2024,62,China,"Weimann, Wunsch and Gerhold"
+LDPE Granule,1/25/2024,61,Poland,Hudson Inc
+LDPE Granule,3/5/2025,73,Chile,"Hauck, Lueilwitz and Daugherty"
+LDPE Granule,9/26/2025,79,Greece,Gorczany-Upton
+PET Flake,10/31/2025,23,Brazil,"Cole, Sporer and Nienow"
+HDPE Granule,10/29/2024,85,Portugal,"McKenzie, Kihn and Abshire"
+LDPE Granule,6/20/2025,36,Thailand,Abernathy-Wilkinson
+LDPE Granule,10/18/2024,30,Portugal,Lesch-Romaguera
+PET Flake,1/27/2024,60,Canada,Collier-Fadel
+PET Flake,3/17/2024,76,Greece,Anderson-Berge
+PET Flake,12/4/2025,49,China,Hartmann Group
+PET Flake,8/7/2025,83,China,Hyatt and Sons
+PET Flake,12/16/2025,70,Indonesia,"Schmeler, Schuster and Roberts"
+LDPE Granule,4/19/2025,61,Indonesia,Sauer and Sons
+PET Flake,5/7/2024,25,Philippines,McDermott-Becker
+LDPE Granule,1/8/2025,49,Ukraine,Monahan LLC
+LDPE Granule,6/9/2024,17,Malaysia,Hills-Goyette
+LDPE Granule,8/2/2025,38,Peru,Morissette Inc
+PET Flake,2/18/2024,40,Gabon,"Murray, Ruecker and Robel"
+PET Flake,10/23/2024,35,Russia,Dibbert-Cruickshank
+HDPE Granule,10/11/2024,27,New Zealand,"Flatley, Cartwright and McCullough"
+LDPE Granule,4/8/2024,81,Sweden,Frami-Luettgen
+LDPE Granule,7/26/2025,38,Brazil,"MacGyver, Satterfield and Nikolaus"
+HDPE Granule,9/28/2024,40,Indonesia,Barton-Emmerich
+HDPE Granule,7/3/2025,49,United States,"Walter, Price and Huel"
+PET Flake,5/22/2024,54,Netherlands,"Mitchell, Green and Moen"
+HDPE Granule,3/5/2024,75,China,Dooley LLC
+PET Flake,12/6/2024,41,Brazil,Koch-Borer
+PET Flake,10/12/2025,57,China,"Wiegand, Grant and Beer"
+LDPE Granule,1/25/2024,41,China,"Zboncak, Muller and Boyer"
+HDPE Granule,6/8/2025,60,China,Mann LLC
+HDPE Granule,8/29/2025,5,Netherlands,Feil Group
+HDPE Granule,6/15/2025,99,Morocco,"Carroll, Huels and Lebsack"
+PET Flake,9/12/2024,62,France,Rolfson-Schmeler
+PET Flake,6/17/2024,11,China,"Rath, Fay and Harber"
+PET Flake,10/22/2024,82,Palestinian Territory,"Gulgowski, Senger and Lynch"
+HDPE Granule,10/2/2024,24,Ukraine,"Cremin, Huel and Kozey"
+LDPE Granule,5/28/2024,88,Indonesia,Terry and Sons
+HDPE Granule,7/4/2024,20,Finland,"Green, Beier and Barton"
+HDPE Granule,2/2/2024,75,Indonesia,Moore Group
+LDPE Granule,1/22/2024,24,Nigeria,"Lang, Kovacek and Durgan"
+HDPE Granule,2/5/2024,13,Afghanistan,"Klein, Grant and Harvey"
+PET Flake,4/7/2025,2,Poland,"Kshlerin, Botsford and Conroy"
+LDPE Granule,2/3/2025,100,Ukraine,Feest Group
+HDPE Granule,2/1/2025,87,Malaysia,"Bahringer, Maggio and Tillman"
+HDPE Granule,8/23/2024,54,Nicaragua,Nolan-Monahan
+LDPE Granule,7/2/2024,86,Czech Republic,Ward Inc
+PET Flake,1/31/2025,19,North Korea,Kris Inc
+LDPE Granule,2/17/2025,44,Malaysia,"Simonis, Reilly and Toy"
+HDPE Granule,9/9/2024,46,Russia,"Wolff, Spencer and Rohan"
+PET Flake,2/6/2024,97,Brazil,"Carroll, Fahey and Crist"
+PET Flake,10/25/2024,63,Dominican Republic,Leannon LLC
+HDPE Granule,10/5/2024,25,Argentina,Johns-Goyette
